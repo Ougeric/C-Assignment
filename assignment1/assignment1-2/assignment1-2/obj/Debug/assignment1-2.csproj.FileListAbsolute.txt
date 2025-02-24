@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\assignment1-2\assignment1-2\bin\Debug\assignment1-2.exe.config
+C:\Users\Lenovo\Desktop\assignment1-2\assignment1-2\bin\Debug\assignment1-2.exe
+C:\Users\Lenovo\Desktop\assignment1-2\assignment1-2\bin\Debug\assignment1-2.pdb
+C:\Users\Lenovo\Desktop\assignment1-2\assignment1-2\obj\Debug\assignment1-2.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\assignment1-2\assignment1-2\obj\Debug\assignment1_2.Form1.resources
+C:\Users\Lenovo\Desktop\assignment1-2\assignment1-2\obj\Debug\assignment1_2.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\assignment1-2\assignment1-2\obj\Debug\assignment1-2.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\assignment1-2\assignment1-2\obj\Debug\assignment1-2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\assignment1-2\assignment1-2\obj\Debug\assignment1-2.exe
+C:\Users\Lenovo\Desktop\assignment1-2\assignment1-2\obj\Debug\assignment1-2.pdb
