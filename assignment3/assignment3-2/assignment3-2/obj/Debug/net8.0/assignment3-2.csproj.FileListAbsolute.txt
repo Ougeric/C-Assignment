@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\assignment3-2\assignment3-2\bin\Debug\net8.0\assignment3-2.exe
+C:\Users\Lenovo\Desktop\assignment3-2\assignment3-2\bin\Debug\net8.0\assignment3-2.deps.json
+C:\Users\Lenovo\Desktop\assignment3-2\assignment3-2\bin\Debug\net8.0\assignment3-2.runtimeconfig.json
+C:\Users\Lenovo\Desktop\assignment3-2\assignment3-2\bin\Debug\net8.0\assignment3-2.dll
+C:\Users\Lenovo\Desktop\assignment3-2\assignment3-2\bin\Debug\net8.0\assignment3-2.pdb
+C:\Users\Lenovo\Desktop\assignment3-2\assignment3-2\obj\Debug\net8.0\assignment3-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\assignment3-2\assignment3-2\obj\Debug\net8.0\assignment3-2.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\assignment3-2\assignment3-2\obj\Debug\net8.0\assignment3-2.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\assignment3-2\assignment3-2\obj\Debug\net8.0\assignment3-2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\assignment3-2\assignment3-2\obj\Debug\net8.0\assignment3-2.dll
+C:\Users\Lenovo\Desktop\assignment3-2\assignment3-2\obj\Debug\net8.0\refint\assignment3-2.dll
+C:\Users\Lenovo\Desktop\assignment3-2\assignment3-2\obj\Debug\net8.0\assignment3-2.pdb
+C:\Users\Lenovo\Desktop\assignment3-2\assignment3-2\obj\Debug\net8.0\assignment3-2.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\assignment3-2\assignment3-2\obj\Debug\net8.0\ref\assignment3-2.dll
